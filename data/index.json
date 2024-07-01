@@ -1,0 +1,89 @@
+{
+    "jobTitle": [
+      {
+        "title": "an Aspiring Web Developer"
+      }
+    ],
+    
+    "about": [
+      {
+      "message": "I am an aspiring developer who became interested in coding whilst in my second year of university. At the time I was studying biotechnology but quickly became interested in software development after becoming curious as to how websites are build. When I'm not coding, you'll often find me outdoors, appreciating nature's beauty, whether it's hiking or enjoying a day at the beach. I also love connecting with others and working together to bring ideas to life, from collaborating with fellow developers to just hanging out as friends. Building meaningful relationships is at the heart of what I do.",
+      "location": "Cape Town, South Africa",
+      "email": "nizaam01.jeftha@gmail.com"
+  }
+  ],
+  
+    "resume": [
+      {
+        "place": "Student at Life Choices Academy",
+        "description": "I am currently enrolled as a student at Life Choices Academy to become a full stack developer and I am learning a lot. The environment encourages growth and development not only when it comes to learning how to code but also personal development."
+      },
+      {
+        "place": "University of Western Cape(2019-2023)",
+        "description": "I obtained my Bachelor of Science degree in Biotechnology and while the journey had its challenges and obstacles, It has taught me lot about how failure is needed for growth and it takes perserevance and dedication to succeed. It was quite rigorous and at times I definitely had moments of doubt and uncertainty, However the challenges I faced has shaped me into the resilent and determined individual I am today."
+      },
+  
+      {
+        "place": "Internship(November 2022 - December 2022)",
+        "description": "I had the opportunity to participate in a science internship that provided me with invaluable experiences and insights into the world of scientific research. Throughout the internship, I was immersed in a dynamic and collaborative environment where I worked alongside seasoned scientists and researchers."
+      },
+  
+      {
+          "place": "High School(2013 - 2018)",
+          "description": "I went to Grassdale High School and while it was a major adjustment, each obstacle served as an opportunity for growth and self-discovery. High school provided me with a solid foundation upon which to build my future aspirations and pursue my dreams. As I reflect on my high school experience, I am grateful for the memories, lessons, and friendships which I have obtained along the way." 
+      }
+    ],
+  
+    "skills": [ 
+      {
+        "name": "HTML",
+        "level": "Advanced"
+      },
+      {
+        "name": "CSS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Advanced"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "name": " Vue.JS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Leadership Skills",
+        "level": "Proficient"
+      },
+      {
+        "name": "Communication Skills",
+        "level": "Proficient"
+      },
+      {
+        "name": "Practical Skills",
+        "level": "Advanced"
+      }
+    ],
+  
+    "testimonials": [
+      {
+        "name": "Shakeel",
+        "surname": "David",
+        "message2": "I love this company"
+      },
+      {}
+    ],
+  
+    "projects": [
+      {
+        "name": "Online Store",
+        "description": "This is a store where you can buy things",
+        "link": "git link",
+        "other-link": "vercel link"
+      }
+    ]
+  }
