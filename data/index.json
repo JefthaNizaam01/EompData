@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
     "jobTitle": [
       {
         "title": "an Aspiring Developer"
@@ -12,12 +12,12 @@
       "location": "Cape Town, South Africa",
       "email": "nizaam01.jeftha@gmail.com"
   }
-=======
+
   "jobTitle": [
     {
       "title": "an Aspiring Web Developer"
     }
->>>>>>> 30114f0ff36511e0a60b64ab1f6c74b058dbb5fe
+
   ],
   
   "about": [
