@@ -1,35 +1,20 @@
 {
-
-    "jobTitle": [
-      {
-        "title": "an Aspiring Developer"
-      }
-    ],
-    
-    "about": [
-      {
-      "message": "I am an aspiring developer who became interested in coding whilst in my second year of university. At the time I was studying biotechnology but quickly became interested in software development after becoming curious as to how websites are build. When I'm not coding, you'll often find me outdoors, appreciating nature's beauty, whether it's hiking or enjoying a day at the beach. I also love connecting with others and working together to bring ideas to life, from collaborating with fellow developers to just hanging out as friends. Building meaningful relationships is at the heart of what I do.",
-      "location": "Cape Town, South Africa",
-      "email": "nizaam01.jeftha@gmail.com"
-  }
-
   "jobTitle": [
     {
-      "title": "an Aspiring Web Developer"
-    }
-
+      "title": "an Aspiring Developer"
+    },
   ],
   
   "about": [
     {
-    "message": "I am an aspiring developer who became interested in coding whilst in my second year of university. At the time I was studying biotechnology but quickly became interested in software development after becoming curious as to how websites are built. When I'm not coding, you'll often find me outdoors, appreciating nature's beauty, whether it's hiking or enjoying a day at the beach. I also love connecting with others and working together to bring ideas to life, from collaborating with fellow developers to just hanging out as friends. Building meaningful relationships is at the heart of what I do.",   
-    "name": "Nizaam Jeftha",
-    "Date of Birth":"31/05/2001",
-    "location": "Cape Town, South Africa",
-    "Cell Phone Number":  "(+27) 84 734 9535",
-    "email": "nizaam01.jeftha@gmail.com"
-}
-],
+      "message": "I am an aspiring developer who became interested in coding whilst in my second year of university. At the time I was studying biotechnology but quickly became interested in software development after becoming curious as to how websites are built. When I'm not coding, you'll often find me outdoors, appreciating nature's beauty, whether it's hiking or enjoying a day at the beach. I also love connecting with others and working together to bring ideas to life, from collaborating with fellow developers to just hanging out as friends. Building meaningful relationships is at the heart of what I do.",
+      "name": "Nizaam Jeftha",
+      "Date of Birth": "31/05/2001",
+      "location": "Cape Town, South Africa",
+      "Cell Phone Number": "(+27) 84 734 9535",
+      "email": "nizaam01.jeftha@gmail.com"
+    }
+  ],
 
   "resume": [
     {
@@ -40,22 +25,20 @@
       "place": "University of Western Cape(2019-2023)",
       "description": "I obtained my Bachelor of Science degree in Biotechnology and while the journey had its challenges and obstacles, It has taught me a lot about how failure is needed for growth and it takes perseverance and dedication to succeed. It was quite rigorous and at times I definitely had moments of doubt and uncertainty. However, the challenges I faced have shaped me into the resilient and determined individual I am today."
     },
-
     {
       "place": "Internship(November 2022 - December 2022)",
       "description": "I had the opportunity to participate in a science internship that provided me with invaluable experiences and insights into the world of scientific research. Throughout the internship, I was immersed in a dynamic and collaborative environment where I worked alongside seasoned scientists and researchers."
     },
-
     {
-        "place": "High School(2013 - 2018)",
-        "description": "I went to Grassdale High School and while it was a major adjustment, each obstacle served as an opportunity for growth and self-discovery. High school provided me with a solid foundation upon which to build my future aspirations and pursue my dreams. As I reflect on my high school experience, I am grateful for the memories, lessons, and friendships which I have obtained along the way." 
+      "place": "High School(2013 - 2018)",
+      "description": "I went to Grassdale High School and while it was a major adjustment, each obstacle served as an opportunity for growth and self-discovery. High school provided me with a solid foundation upon which to build my future aspirations and pursue my dreams. As I reflect on my high school experience, I am grateful for the memories, lessons, and friendships which I have obtained along the way."
     }
   ],
 
   "skills": [ 
     {
       "name": "HTML5",
-      "level": "Proficient "
+      "level": "Proficient"
     },
     {
       "name": "CSS3",
@@ -65,9 +48,8 @@
       "name": "JavaScript",
       "level": "Beginner level"
     },
-    
     {
-      "name": " Problem Solving",
+      "name": "Problem Solving",
       "level": "Proficient"
     },
     {
@@ -80,77 +62,73 @@
     }
   ],
 
-  
-
   "projects": [
     {
       "name": "Online Store",
       "description": "For my project, I developed an online store for Indian jewelry, featuring a diverse range of traditional and modern designs. The site offers an easy browsing experience, detailed descriptions, and secure purchases, bringing exquisite Indian craftsmanship to a global market."
-
     },
     {
-     "name": "Calculator", 
-    "description": "Here I created a virtual calculator, a software tool that performs arithmetic and scientific calculations. It features a user-friendly interface and advanced functions, providing accurate results for both basic and complex mathematical operations."
+      "name": "Calculator",
+      "description": "Here I created a virtual calculator, a software tool that performs arithmetic and scientific calculations. It features a user-friendly interface and advanced functions, providing accurate results for both basic and complex mathematical operations."
     },
     {
-        "name": "Keyboard" ,
-       "description": "A sharp and visually appealing virtual keyboard interface designed for web interaction for day to day use."
-
+      "name": "Keyboard",
+      "description": "A sharp and visually appealing virtual keyboard interface designed for web interaction for day to day use."
     },
     {
-        "name": "Cafe Menu" ,
-       "description": "Creating an eye-catching café menu with CSS, combining simplicity and elegance for an appealing menu experience"
+      "name": "Cafe Menu",
+      "description": "Creating an eye-catching café menu with CSS, combining simplicity and elegance for an appealing menu experience."
     },
     {
-        "name": "Flex Cubes" ,
-       "description": "Building Flex Cubes with creativity and skill using the very famous flexbox, bending possibilities into shape."
+      "name": "Flex Cubes",
+      "description": "Building Flex Cubes with creativity and skill using the very famous flexbox, bending possibilities into shape."
     },
     {
-        "name": "Nelson Mandela's Tribute Page" ,
-        "description": "A tribute page honoring Nelson Mandela's enduring legacy, celebrating his remarkable life and contributions to humanity."
+      "name": "Nelson Mandela's Tribute Page",
+      "description": "A tribute page honoring Nelson Mandela's enduring legacy, celebrating his remarkable life and contributions to humanity."
     },
     {
-      "name": "Calculator" ,
+      "name": "Calculator",
       "description": "It's a static calculator interface based on a 80s theme created with HTML and CSS to provide a retro-inspired experience."
-  },
-  {
-    "name": "SurveyForm" ,
-    "description": "I built a survey form to gather valuable feedback from users. It helps me understand their opinions and preferences better."
-}
+    },
+    {
+      "name": "SurveyForm",
+      "description": "I built a survey form to gather valuable feedback from users. It helps me understand their opinions and preferences better."
+    }
   ],
-"testimonials": [
+
+  "testimonials": [
     {
       "message": "Nizaam is a delightful colleague, exhibiting strong interpersonal skills and a grounded personality. He demonstrates wisdom and possesses exceptional knowledge in his field. Nizaam generously offers assistance and displays remarkable patience. It is indeed an honor to have Nizaam as both a friend and a professional peer.",
       "name": "Aakifah Palekar"
     },
     {
-        "message": "Nizaam is an excellent coder. He's super dedicated to what he does, and he's really good at it. Whether it's solving tough problems or making cool-looking websites, Nizaam knows his stuff. He's like an artist with code, always coming up with clever solutions. If you need someone to bring your ideas to life online, Nizaam is your guy.",
-        "name": "Shakeel Davids"
+      "message": "Nizaam is an excellent coder. He's super dedicated to what he does, and he's really good at it. Whether it's solving tough problems or making cool-looking websites, Nizaam knows his stuff. He's like an artist with code, always coming up with clever solutions. If you need someone to bring your ideas to life online, Nizaam is your guy.",
+      "name": "Shakeel Davids"
     },
     {
-        "message": "Nizaam is an incredibly committed individual who consistently strives for excellence. What sets Nizaam apart is his knack for creating a warm and welcoming environment wherever he goes. He's the kind of person who goes above and beyond, making everyone feel valued and supported. Working with Nizaam is not just about getting the job done, it's about feeling inspired and appreciated every step of the way.",
-        "name": "Anushqa Kandan"
+      "message": "Nizaam is an incredibly committed individual who consistently strives for excellence. What sets Nizaam apart is his knack for creating a warm and welcoming environment wherever he goes. He's the kind of person who goes above and beyond, making everyone feel valued and supported. Working with Nizaam is not just about getting the job done, it's about feeling inspired and appreciated every step of the way.",
+      "name": "Anushqa Kandan"
     },
     {
       "message": "Nizaam is a good colleague and a smart worker. He applies himself to all that which he does and has a positive attitude that is contagious who find themselves with him. He will definitely be an asset to any team that he's a part of.",
       "name": "Abdurahmaan Charif"
     },
     {
-        "message":"Nizaam is an easy-going and high-spirited person who puts his creative foot first. He approaches challenges with a calm demeanor, never straying from focus when it comes to making a deadline. Charm comes easily to him, coupled with a natural affinity to make one feel at ease, whether that be individually or within a team.",
-        "name": "Robyn Carnow"
+      "message": "Nizaam is an easy-going and high-spirited person who puts his creative foot first. He approaches challenges with a calm demeanor, never straying from focus when it comes to making a deadline. Charm comes easily to him, coupled with a natural affinity to make one feel at ease, whether that be individually or within a team.",
+      "name": "Robyn Carnow"
     },
     {
-        "message":"Nizaam is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer.",
-        "name":"Joel Mukanya (Lecturer)"
+      "message": "Nizaam is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer.",
+      "name": "Joel Mukanya (Lecturer)"
     }
   ],
 
   "contact": [
     {
-        "phone": "084-734-9535",
-        "email": "nizaam01.jeftha@gmail.com",
-        "location": "Grassy Park, Cape Town"
+      "phone": "084-734-9535",
+      "email": "nizaam01.jeftha@gmail.com",
+      "location": "Grassy Park, Cape Town"
     }
   ]
-
 }
